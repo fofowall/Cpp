@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="KMP.cpp" />
     <ClCompile Include="trie字符串统计.cpp" />
+    <ClCompile Include="题解.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

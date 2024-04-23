@@ -21,5 +21,8 @@
     <ClCompile Include="trie字符串统计.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="题解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
